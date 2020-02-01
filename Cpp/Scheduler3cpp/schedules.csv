@@ -1,0 +1,15 @@
+Day,Start Time,End Time,Activity
+Mon,8:30:00,15:00:00,Work
+Mon,17:00:00,18:30:00,Gym
+Tue,6:30:00,9:00:00,Work
+Tue,9:12:00,9:40:00,Travel to York
+Wed,13:00:00,18:30:00,Work
+Wed,7:30:00,21:00:00,Gym
+Thur,6:30:00,9:00:00,Work
+Thur,10:00:00,19:50:00,Classes
+Fri,6:30:00,13:00:00,Work
+Fri,17:00:00,18:30:00,Gym
+Sat,8:00:00,15:00:00,Work
+Sat,18:00:00,19:30:00,Gym
+Sun,12:30:00,18:30:00,Work
+Sun,20:00:00,23:59:59,Homework
